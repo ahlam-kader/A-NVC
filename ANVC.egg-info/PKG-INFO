@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: ANVC
+Version: 0.1
+Summary: A personal data visualization library combining insight, creativity, and aesthetic design for storytelling
+Author: Ahlam med abdel kader
+Requires-Dist: matplotlib
